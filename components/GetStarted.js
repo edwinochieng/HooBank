@@ -7,7 +7,7 @@ function GetStarted() {
     <div 
     className='flex justify-center items-center w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer'
     >
-    <div className='flex justify-center items-center bg-primary w-full h-full rounded-full'>
+    <div className='flex justify-center items-center bg-primary w-full h-full rounded-full flex-col'>
     <div className='flex justify-center items-start flex-row'>
         <p className='font-poppins font-medium text-[18px] leading-[23px] mr-2'>
         <span className='text-gradient'>Get</span> 

@@ -5,7 +5,7 @@ import GetStarted from './GetStarted'
 
 function Hero() {
   return (
-    <div className='flex flex-col md:flex-row sm:py-16 py-6 '>
+    <div id="home" className='flex flex-col md:flex-row sm:py-16 py-6 '>
       <div className='flex-1 flex justify-center items-start flex-col xl:px-0 sm:px-16 px-6'>
         <div className='flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2'>
           <Image src={discount} alt="discount" height="32px" width = "32px"/>
